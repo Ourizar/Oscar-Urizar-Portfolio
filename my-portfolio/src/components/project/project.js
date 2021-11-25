@@ -14,7 +14,7 @@ function project(){
      <section class="page-section" id="about">
         <h2>About Me</h2>
         <div>
-        <img src="./assets/images/myProfile.jpg" alt="true-coding" width ='100px' />
+        <img src="../src/assets/myProfile.jpg/" alt="myProfilePicture" width ='100px' />
           <p>
             My name is Oscar Urizar! Welcome to my portfolio page. I am currently
             enrolled in the GA Tech coding bootcamp and am learning a lot about
